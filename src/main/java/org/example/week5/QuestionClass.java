@@ -10,7 +10,7 @@ public class QuestionClass {
      * Check Game And Player Class For Solution
      *
      *
-     * 
+     *
      * Question 2:
      * Suppose you are developing a calculator program in Java.
      * Implement a method called divideNumbers() that accepts two integers as parameters
@@ -19,6 +19,13 @@ public class QuestionClass {
      * If the second number is zero, throw a custom exception called DivideByZeroException.
      * In the main() method, call the divideNumbers() method with different inputs, and handle any exceptions that may arise.
      * Check DivideByZeroException class and Calculator class For solutions
+     */
+    /**
+     * QUESTION 3
+     * How do you read the contents of a text file in Java?
+     * How do you write data into a text file in Java?
+     * How can you append data to an existing text file in Java?
+     * Check FileReadingExample, FileWritingExample, FileAppendingExample for answers
      */
 
 
